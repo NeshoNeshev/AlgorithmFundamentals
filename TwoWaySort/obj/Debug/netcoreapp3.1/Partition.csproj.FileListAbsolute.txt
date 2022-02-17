@@ -1,0 +1,13 @@
+C:\Users\nnesh\OneDrive\Работен плот\Algorithms\TwoWaySort\bin\Debug\netcoreapp3.1\Partition.exe
+C:\Users\nnesh\OneDrive\Работен плот\Algorithms\TwoWaySort\bin\Debug\netcoreapp3.1\Partition.deps.json
+C:\Users\nnesh\OneDrive\Работен плот\Algorithms\TwoWaySort\bin\Debug\netcoreapp3.1\Partition.runtimeconfig.json
+C:\Users\nnesh\OneDrive\Работен плот\Algorithms\TwoWaySort\bin\Debug\netcoreapp3.1\Partition.runtimeconfig.dev.json
+C:\Users\nnesh\OneDrive\Работен плот\Algorithms\TwoWaySort\bin\Debug\netcoreapp3.1\Partition.dll
+C:\Users\nnesh\OneDrive\Работен плот\Algorithms\TwoWaySort\bin\Debug\netcoreapp3.1\Partition.pdb
+C:\Users\nnesh\OneDrive\Работен плот\Algorithms\TwoWaySort\obj\Debug\netcoreapp3.1\Partition.csprojAssemblyReference.cache
+C:\Users\nnesh\OneDrive\Работен плот\Algorithms\TwoWaySort\obj\Debug\netcoreapp3.1\Partition.AssemblyInfoInputs.cache
+C:\Users\nnesh\OneDrive\Работен плот\Algorithms\TwoWaySort\obj\Debug\netcoreapp3.1\Partition.AssemblyInfo.cs
+C:\Users\nnesh\OneDrive\Работен плот\Algorithms\TwoWaySort\obj\Debug\netcoreapp3.1\Partition.csproj.CoreCompileInputs.cache
+C:\Users\nnesh\OneDrive\Работен плот\Algorithms\TwoWaySort\obj\Debug\netcoreapp3.1\Partition.dll
+C:\Users\nnesh\OneDrive\Работен плот\Algorithms\TwoWaySort\obj\Debug\netcoreapp3.1\Partition.pdb
+C:\Users\nnesh\OneDrive\Работен плот\Algorithms\TwoWaySort\obj\Debug\netcoreapp3.1\Partition.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "7yB9bs63CXvfz9+oF/lh0iZJ7i4obbARTrC/6GvIUzPR7jiY7CnKNxuVB+f6ML07Jbp3QpcIOqSvMhzOZqCnpw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nnesh\\OneDrive\\Работен плот\\Algorithms\\TwoWaySort\\Partition.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nnesh\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.8\\microsoft.aspnetcore.app.ref.3.1.8.nupkg.sha512",
+    "C:\\Users\\nnesh\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.9\\microsoft.netcore.app.host.win-x64.3.1.9.nupkg.sha512"
+  ],
+  "logs": []
+}
